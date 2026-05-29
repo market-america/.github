@@ -1,6 +1,6 @@
 # Market America
 
-The following repositories are mostly maintained/leveraged by the Quality Assurance Dept.
+The following repositories are administered by the Release Team. Inquiries can be directed to releaseteam@marketamerica.com.
 
 
 
